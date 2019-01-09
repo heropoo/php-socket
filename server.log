@@ -1,9 +1,0 @@
-
-Warning: socket_bind(): unable to bind address [98]: Address in use in /srv/www/projects/github/php-socket/server_socket.php on line 10
-Server bind fail: Address in useServer listening on 0.0.0.0:8888 ...
-Server received [from client 0]: l love you 我爱你 socket
-Server received [from client 1]: l love you 我爱你 socket
-Server received [from client 2]: l love you 我爱你 socket
-Server received [from client 3]: l love you 我爱你 socket
-Server received [from client 4]: l love you 我爱你 socket
-Server received [from client 5]: l love you 我爱你 socket
